@@ -1,0 +1,249 @@
+{
+  "brand": "Crochet Petal Craft",
+  "instagram": "https://www.instagram.com/crochetpetalcraft/",
+  "generatedAt": "2026-08-30T09:55:08.604Z",
+  "currency": "₹",
+  "categories": [
+    {
+      "slug": "hair-clips",
+      "name": "Crochet Hair Clips"
+    },
+    {
+      "slug": "hair-bands",
+      "name": "Hair Bands"
+    },
+    {
+      "slug": "scrunchies",
+      "name": "Scrunchies"
+    },
+    {
+      "slug": "flowers",
+      "name": "Crochet Flowers"
+    },
+    {
+      "slug": "kids",
+      "name": "Kids' Accessories"
+    },
+    {
+      "slug": "gift-sets",
+      "name": "Gift Sets"
+    }
+  ],
+  "products": [
+    {
+      "code": "CPC-HC-001",
+      "name": "Pink Petal Crochet Hair Clip",
+      "category": "hair-clips",
+      "collection": "Petal Favourites",
+      "price": 219,
+      "availability": "available",
+      "colours": [
+        "Blush Pink",
+        "Cream"
+      ],
+      "isNew": true,
+      "featured": true,
+      "customisable": true,
+      "url": "product/cpc-hc-001.html",
+      "image": "img/products/cpc-hc-001/01-full.jpg"
+    },
+    {
+      "code": "CPC-HC-002",
+      "name": "Daisy Trio Hair Pin Set",
+      "category": "hair-clips",
+      "collection": "Pastel Basics",
+      "price": 249,
+      "availability": "made-to-order",
+      "colours": [
+        "Ivory",
+        "Butter Yellow"
+      ],
+      "isNew": true,
+      "featured": true,
+      "customisable": true,
+      "url": "product/cpc-hc-002.html",
+      "image": "img/products/cpc-hc-002/01-full.jpg"
+    },
+    {
+      "code": "CPC-HC-003",
+      "name": "Rosette Claw Clip",
+      "category": "hair-clips",
+      "collection": "Festive Edit",
+      "price": 379,
+      "availability": "limited",
+      "colours": [
+        "Muted Rose",
+        "Sage"
+      ],
+      "isNew": false,
+      "featured": false,
+      "customisable": false,
+      "url": "product/cpc-hc-003.html",
+      "image": "img/ph/hair-clips.svg"
+    },
+    {
+      "code": "CPC-HB-001",
+      "name": "Sage Blossom Hair Band",
+      "category": "hair-bands",
+      "collection": "Pastel Basics",
+      "price": 329,
+      "availability": "available",
+      "colours": [
+        "Sage Green",
+        "Cream"
+      ],
+      "isNew": false,
+      "featured": true,
+      "customisable": true,
+      "url": "product/cpc-hb-001.html",
+      "image": "img/ph/hair-bands.svg"
+    },
+    {
+      "code": "CPC-HB-002",
+      "name": "Knotted Bow Headband",
+      "category": "hair-clips",
+      "collection": "",
+      "price": 299,
+      "availability": "available",
+      "colours": [
+        "Warm Cream"
+      ],
+      "isNew": false,
+      "featured": false,
+      "customisable": true,
+      "url": "product/cpc-hb-002.html",
+      "image": "img/products/cpc-hb-002/05-full.jpg"
+    },
+    {
+      "code": "CPC-SC-001",
+      "name": "Pastel Cloud Scrunchie",
+      "category": "scrunchies",
+      "collection": "Pastel Basics",
+      "price": 149,
+      "availability": "available",
+      "colours": [
+        "Soft Blush"
+      ],
+      "isNew": false,
+      "featured": true,
+      "customisable": true,
+      "url": "product/cpc-sc-001.html",
+      "image": "img/ph/scrunchies.svg"
+    },
+    {
+      "code": "CPC-SC-002",
+      "name": "Petal Edge Scrunchie Duo",
+      "category": "scrunchies",
+      "collection": "",
+      "price": 269,
+      "availability": "available",
+      "colours": [
+        "Blush Pink",
+        "Cream"
+      ],
+      "isNew": true,
+      "featured": false,
+      "customisable": true,
+      "url": "product/cpc-sc-002.html",
+      "image": "img/ph/scrunchies.svg"
+    },
+    {
+      "code": "CPC-FL-001",
+      "name": "Everlasting Tulip Stem",
+      "category": "flowers",
+      "collection": "Festive Edit",
+      "price": 189,
+      "availability": "made-to-order",
+      "colours": [
+        "Petal Pink",
+        "Sage Green"
+      ],
+      "isNew": false,
+      "featured": true,
+      "customisable": true,
+      "url": "product/cpc-fl-001.html",
+      "image": "img/ph/flowers.svg"
+    },
+    {
+      "code": "CPC-FL-002",
+      "name": "Mini Bouquet of Five Blooms",
+      "category": "flowers",
+      "collection": "Festive Edit",
+      "price": 899,
+      "availability": "made-to-order",
+      "colours": [
+        "Blush Pink",
+        "Cream",
+        "Muted Rose"
+      ],
+      "isNew": true,
+      "featured": false,
+      "customisable": true,
+      "url": "product/cpc-fl-002.html",
+      "image": "img/ph/flowers.svg"
+    },
+    {
+      "code": "CPC-KD-001",
+      "name": "Little Bunny Ear Clips",
+      "category": "kids",
+      "collection": "",
+      "price": 219,
+      "availability": "available",
+      "colours": [
+        "Cream",
+        "Blush Pink"
+      ],
+      "isNew": false,
+      "featured": false,
+      "customisable": true,
+      "url": "product/cpc-kd-001.html",
+      "image": "img/ph/kids.svg"
+    },
+    {
+      "code": "CPC-GS-001",
+      "name": "Petal Gift Box — Clip, Band & Scrunchie",
+      "category": "gift-sets",
+      "collection": "Petal Favourites",
+      "price": 749,
+      "availability": "available",
+      "colours": [
+        "Choose your theme"
+      ],
+      "isNew": true,
+      "featured": true,
+      "customisable": true,
+      "url": "product/cpc-gs-001.html",
+      "image": "img/ph/gift-sets.svg"
+    },
+    {
+      "code": "CPC-GS-002",
+      "name": "Bridesmaid Petal Set of Six",
+      "category": "gift-sets",
+      "collection": "Festive Edit",
+      "price": 1299,
+      "availability": "coming-soon",
+      "colours": [
+        "Choose your theme"
+      ],
+      "isNew": true,
+      "featured": false,
+      "customisable": true,
+      "url": "product/cpc-gs-002.html",
+      "image": "img/ph/gift-sets.svg"
+    },
+    {
+      "code": "CPC-HB-003",
+      "name": "Crochet Hair Vine",
+      "category": "hair-clips",
+      "collection": "Petal Favourites",
+      "price": 649,
+      "availability": "available",
+      "colours": [],
+      "isNew": true,
+      "featured": false,
+      "customisable": true,
+      "url": "product/cpc-hb-003.html",
+      "image": "img/products/cpc-hb-003/01-full.jpg"
+    }
+  ]
+}
